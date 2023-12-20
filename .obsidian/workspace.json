@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Git.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -146,8 +144,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e71be175b59b39e",
+  "active": "3e8fe5e4966d079d",
   "lastOpenFiles": [
+    "Obsidian Git.md",
+    "Untitled.md",
     "README.md",
     "Git/Git Basics.md",
     "Resources.md",
@@ -156,7 +156,6 @@
     "The Odin Project Specific/JavaScript Fundamentals MOC - TOP.md",
     "The Odin Project Specific/Foundations MOC.md",
     "The Odin Project Specific",
-    "Obsidian Git.md",
     "MILLIONAIRE IDEAS.md",
     "JavaScript/JavaScript General MOC.md",
     "JavaScript/JS Variables.md",
@@ -177,7 +176,6 @@
     "HTML & CSS",
     "Home.md",
     "Good Practices & Standards/Understanding Errors.md",
-    "Good Practices & Standards/Problem Solving Basics.md",
     "Good Practices & Standards",
     "Git",
     "CLI",

@@ -1,2 +1,2 @@
-# Ignore obsidian configuration and plugins
+# to exclude Obsidian's settings (including plugin and hotkey configurations)
 .obsidian/
