@@ -1,4 +1,5 @@
-- Little single-page app that demonstrates the info u can take from a user.
-- Video-game selector (requires so much data).
-- Online Heads or Tails.
-- Published podcast counter.
+-  Little single-page app that demonstrates the info u can take from a user
+-  Video-game selector (requires so much data)
+-  Online Heads or Tails
+-  Published podcast counter
+-  Natxo's
