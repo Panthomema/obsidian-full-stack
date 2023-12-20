@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Obsidian Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Obsidian Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Obsidian Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Obsidian Git.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "7e71be175b59b39e",
   "lastOpenFiles": [
-    "Git/Git Basics.md",
     "README.md",
+    "Git/Git Basics.md",
     "Resources.md",
     "Browser DevTools/Chrome DevTools Basics.md",
     "FullStack Dev/The Odin Project Specific/Foundations MOC.md",
     "The Odin Project Specific/JavaScript Fundamentals MOC - TOP.md",
     "The Odin Project Specific/Foundations MOC.md",
     "The Odin Project Specific",
-    "Obsidian Sync.md",
+    "Obsidian Git.md",
     "MILLIONAIRE IDEAS.md",
     "JavaScript/JavaScript General MOC.md",
     "JavaScript/JS Variables.md",
