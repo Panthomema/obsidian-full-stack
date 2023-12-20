@@ -11,4 +11,5 @@ This MOC follows JS fundamentals from [The Odin Project](https://www.theodinproj
 -  [[Problem Solving Basics]]
 -  [[Understanding Errors]]
 -  [[Clean Code]]
--   
+-  [[JS Data Types]] (Arrays)
+-  [[JS Loops and Iterations]]
