@@ -1,31 +1,19 @@
 {
   "main": {
-    "id": "0a8139bf1689a73d",
+    "id": "545650d073d14074",
     "type": "split",
     "children": [
       {
-        "id": "aafdcfc87b09929c",
+        "id": "c07a16e10ce2fef7",
         "type": "tabs",
         "children": [
           {
-            "id": "d4c294067566419e",
+            "id": "7e71be175b59b39e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Odin Project Specific/JavaScript Fundamentals MOC - TOP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19dd794f7122ea38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/JS Data Types.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d98325c6c8fa3729",
+    "id": "c1bb9359dc375c5f",
     "type": "split",
     "children": [
       {
-        "id": "a2463b1cce29995a",
+        "id": "25a73f6bb010f227",
         "type": "tabs",
         "children": [
           {
-            "id": "9b3829528c2896ee",
+            "id": "3e8fe5e4966d079d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +43,7 @@
             }
           },
           {
-            "id": "7bb737bc05a3e6fc",
+            "id": "096c1bacfb8b3c19",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -70,7 +58,7 @@
             }
           },
           {
-            "id": "58074744f95b3d51",
+            "id": "fb2984205b90a76e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "61578f75b0a0210b",
+    "id": "c09073a2041a961e",
     "type": "split",
     "children": [
       {
-        "id": "834e27f3ebdeae4f",
+        "id": "90746e3677e86e01",
         "type": "tabs",
         "children": [
           {
-            "id": "0602bb3fede40312",
+            "id": "66648e5360265d67",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Odin Project Specific/JavaScript Fundamentals MOC - TOP.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,19 +97,19 @@
             }
           },
           {
-            "id": "47303789dc4df1dc",
+            "id": "6c24085202ddde8e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Odin Project Specific/JavaScript Fundamentals MOC - TOP.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a86541b11b062981",
+            "id": "d81a0c1a0c617ab8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,12 +120,12 @@
             }
           },
           {
-            "id": "a9b34e61d004d730",
+            "id": "1b0689802bc834c7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Odin Project Specific/JavaScript Fundamentals MOC - TOP.md"
+                "file": "README.md"
               }
             }
           }
@@ -158,21 +146,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4c294067566419e",
+  "active": "7e71be175b59b39e",
   "lastOpenFiles": [
-    "Good Practices & Standards/Clean Code.md",
-    "Good Practices & Standards/Problem Solving Basics.md",
+    "Git/Git Basics.md",
+    "README.md",
+    "Resources.md",
+    "Browser DevTools/Chrome DevTools Basics.md",
+    "FullStack Dev/The Odin Project Specific/Foundations MOC.md",
     "The Odin Project Specific/JavaScript Fundamentals MOC - TOP.md",
-    "JavaScript/JS Data Types.md",
-    "JavaScript/JS Equality Comparisons.md",
-    "JavaScript/JS Expressions and Operators.md",
-    "Home.md",
     "The Odin Project Specific/Foundations MOC.md",
+    "The Odin Project Specific",
+    "Obsidian Sync.md",
+    "MILLIONAIRE IDEAS.md",
     "JavaScript/JavaScript General MOC.md",
-    "Internet/Internet Basic Concepts.md",
     "JavaScript/JS Variables.md",
+    "JavaScript/JS Type Casting.md",
+    "JavaScript/JS Regex.md",
+    "JavaScript/JS Loops and Iterations.md",
     "JavaScript/JS Functions.md",
+    "JavaScript/JS Expressions and Operators.md",
+    "JavaScript/JS Equality Comparisons.md",
+    "JavaScript/JS Data Types.md",
+    "JavaScript/JS Data Structures.md",
+    "JavaScript/JS Control Flow.md",
+    "JavaScript",
+    "Internet/Internet Basic Concepts.md",
+    "Internet",
+    "HTML & CSS/HTML & CSS Basics.md",
+    "HTML & CSS/FlexBox.md",
+    "HTML & CSS",
+    "Home.md",
     "Good Practices & Standards/Understanding Errors.md",
-    "Problem Solving Basics.md"
+    "Good Practices & Standards/Problem Solving Basics.md",
+    "Good Practices & Standards",
+    "Git",
+    "CLI",
+    "Browser DevTools"
   ]
 }
