@@ -13,8 +13,8 @@ Links from [TOP](https://www.theodinproject.com/) and [JS Roadmap](https://roadm
 ## Object
 
 -  [Referencing `instanceof` operator - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/instanceof) - `someArray instanceof Array`
-### Array (not a data type in JS)
-
+-  [Object - MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
 -  
+
 
 
