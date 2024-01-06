@@ -13,3 +13,5 @@ This MOC follows JS fundamentals from [The Odin Project](https://www.theodinproj
 -  [[Clean Code]]
 -  [[JS Data Structures]] (Arrays)
 -  [[JS Loops and Iterations]]
+-  [[JS DOM Manipulation & Events]]
+-  

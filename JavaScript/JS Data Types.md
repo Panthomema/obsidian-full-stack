@@ -10,6 +10,8 @@ Links from [TOP](https://www.theodinproject.com/) and [JS Roadmap](https://roadm
 -  [String methods - W3Schools](https://www.w3schools.com/js/js_string_methods.asp)
 -  [String reference - W3Schools](https://www.w3schools.com/jsref/jsref_obj_string.asp)
 -  [Referencing `typeof` operator - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof)
+-  [String `repeat` method - MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String/repeat)
+-  
 ## Object
 
 -  [Referencing `instanceof` operator - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/instanceof) - `someArray instanceof Array`

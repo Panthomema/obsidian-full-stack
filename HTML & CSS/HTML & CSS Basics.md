@@ -1,6 +1,8 @@
 Links from [TOP](https://www.theodinproject.com/):
 
 -  [CSS General Reference - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+-  [Metadata in HTML - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#applying_css_and_javascript_to_html)
+-  [HTML Attributes Reference - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
 ## Basic elements
 
 -  [About the `lang` attribute - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/lang)
